@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+.[!NOTE].
+La ultima vez que este README se editó fue el 1/13/2024
 <!--
 **ICT-Ronco/ICT-Ronco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
