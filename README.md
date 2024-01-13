@@ -2,7 +2,7 @@
 >[!NOTE]
 >La ultima vez que este README se editó fue el 1/13/2024
 
->[!WARNING]
+>[!IMPORTANT]
 >No te olvides de aprender algo nuevo cada día
 
 >[!TIP]
