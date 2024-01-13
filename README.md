@@ -1,6 +1,10 @@
 ### Hi there 👋
 >[!NOTE]
 >La ultima vez que este README se editó fue el 1/13/2024
+>[!WARNING]
+>No te olvides de aprender algo nuevo cada día
+>[!TIP]
+>Sígueme para enterarte de más funciones como esta
 <!--
 **ICT-Ronco/ICT-Ronco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
