@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ronco;Felipe;;;
+FN:Felipe Ronco
+item1.EMAIL;type=INTERNET;type=pref:cuadradoroncofelipe@gmail.com
+item1.X-ABLabel:Contacto
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+34 619 800 199
+END:VCARD
